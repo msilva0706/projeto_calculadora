@@ -1,3 +1,5 @@
+No terminal, use o comando echo para executar o script todos_comandos.sh
+
 #!/bin/bash
 
 echo "todo os comandos usados ate aqui segue abaixo a lista"
